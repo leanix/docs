@@ -1,0 +1,2 @@
+# docs
+Public leanIX documentation
