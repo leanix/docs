@@ -21,3 +21,9 @@ The following requirements apply to the current available release of leanIX.
 * https://github.com
 * https://maps.googleapis.com/maps/api/geocode/json (optional; Zugriff kann durch Ausblenden der jeweiligen Kategorie in den Fact Sheets ausgeschaltet werden.)
 
+## Health Check
+
+The Health-Check is reachable under the following URL and should return Code 200 if everything is OK.
+
+https://<instance-url>/demo/api/v1/health, e.g. https://app.leanix.net/demo/api/v1/health
+
