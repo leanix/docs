@@ -11,7 +11,7 @@ The following requirements apply to the current available release of leanIX.
 ## Required Software
 
 * Docker >= 1.6.2
-* Docker-Compose >= 1.0
+* Docker-Compose >= 1.3.2
 
 ## Accessible URLs
 
