@@ -8,6 +8,11 @@ The following requirements apply to the current available release of leanIX.
 *	Memory >= 16 GB
 *	Harddisk >= 100 GB, preferred SSD type storage
 
+## Required Software
+
+* Docker >= 1.6.2
+* Docker-Compose >= 1.0
+
 ## Accessible URLs
 
 * https://index.docker.io
