@@ -36,4 +36,5 @@ We recommend to take snapshots of the whole VM where leanIX is running on.
 ## Monitoring
 
 We provide a Health-Check endpoint that can be accessed by your monitoring solution. The Health-Check is reachable under the following URL and should return Code 200 if everything is OK.
+
 `https://<instance-url>/demo/api/v1/health`, e.g. https://app.leanix.net/demo/api/v1/health
