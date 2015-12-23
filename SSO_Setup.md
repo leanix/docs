@@ -141,3 +141,7 @@ LeanIX requires that the following attributes are submitted in the SAML message.
 ## Debugging & Error-Resolution
 
 * SAML logs can be found in the SP `var/log/shibboleth/shibd.log` in eam-web container of the SSO instance.
+
+## Important remarks
+
+* Invitation mode can only be direct - must be checked when workspace is changed
