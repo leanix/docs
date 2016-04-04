@@ -80,7 +80,7 @@ LeanIX requires that the following attributes are submitted in the SAML 2.0 mess
    <td>fullname</td>
    <td>urn:oasis:names:tc:SAML:2.0:attrname-format:uri</td>
    <td>Peter Schmidt</td>
-   <td></td>
+   <td>Optional</td>
 </tr>
 <tr>
    <td>uid</td>
