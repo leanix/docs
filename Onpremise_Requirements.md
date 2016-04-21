@@ -1,6 +1,6 @@
 # On-Premise requirements
 
-The following requirements apply to the current available release of leanIX.
+The following requirements apply to the current available release of LeanIX.
 
 ## Hardware
 
@@ -28,10 +28,11 @@ The following requirements apply to the current available release of leanIX.
 
 * SMTP server to send mails
 * optional Single Sign-on via SAML 2.0, see [SSO Setup documentation](../SSO_Setup.md)
+* The LeanIX-webserver needs a SSL certificate for the (sub)domain it will be running on. If it is a self-signed certificate we also need the CA chain available on the server.
 
 ## Backup
 
-We recommend to take snapshots of the whole VM where leanIX is running on.
+We recommend to take snapshots of the whole VM where LeanIX is running on.
 
 ## Monitoring
 
