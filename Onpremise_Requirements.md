@@ -1,1 +1,1 @@
-Please go to: [http://docs.leanix.net/docs/on-premise](http://docs.leanix.net/docs/on-premise)
+URL changed, please go to: [http://dev.leanix.net/docs/on-premise](http://dev.leanix.net/docs/on-premise)
