@@ -1,1 +1,1 @@
-Please go to: [http://docs.leanix.net/docs/single-sign-on](http://docs.leanix.net/docs/single-sign-on)
+URL changed, please go to: [http://dev.leanix.net/docs/single-sign-on](http://dev.leanix.net/docs/single-sign-on)
